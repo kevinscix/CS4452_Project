@@ -1,0 +1,11 @@
+category,id,true_label,pred_prob,confidence,text,img
+False Positive (Predicted Hateful),57169,0,0.8559452891349792,0.35594528913497925,mfw i pull up at the lights next to the person who sped past me,img/57169.png
+False Positive (Predicted Hateful),20473,0,0.8398705124855042,0.33987051248550415,this is what vitiligo looks like in african males,img/20473.png
+False Positive (Predicted Hateful),48012,0,0.835976779460907,0.335976779460907,"when you're doing introductions on the first day of class and your teacher makes you say 3 things about yourself an arm like a damn rocket, a cock like a burmese python and the mind of a fucking scientist",img/48012.png
+False Positive (Predicted Hateful),79146,0,0.7997515797615051,0.2997515797615051,breaking: rep. ilhan omar broke federal tax law she filed her taxes jointly with a man to whom she was not legally married,img/79146.png
+False Positive (Predicted Hateful),46793,0,0.7930703163146973,0.29307031631469727,this has nothing to do with this post but one day i hope we can all live in a world of peace,img/46793.png
+False Negative (Predicted Non-Hateful),10287,1,0.12294039875268936,0.37705960124731064,found bigfoot married her,img/10287.png
+False Negative (Predicted Non-Hateful),42530,1,0.14386144280433655,0.35613855719566345,wanna buy a graham cracker? a gram of what?,img/42530.png
+False Negative (Predicted Non-Hateful),27034,1,0.14666739106178284,0.35333260893821716,record black employment record black welfare record black imprisonment,img/27034.png
+False Negative (Predicted Non-Hateful),34985,1,0.1534755676984787,0.3465244323015213,donald trump is my bitch you stupid arrogant americans.!,img/34985.png
+False Negative (Predicted Non-Hateful),82943,1,0.1580125093460083,0.3419874906539917,we got my blind cousin a puppy for christmas,img/82943.png

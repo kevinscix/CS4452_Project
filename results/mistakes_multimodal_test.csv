@@ -1,0 +1,11 @@
+category,id,true_label,pred_prob,confidence,text,img
+False Positive (Predicted Hateful),45672,0,0.9806679487228394,0.48066794872283936,he was big and black my ass had no choice,img/45672.png
+False Positive (Predicted Hateful),08462,0,0.9796732664108276,0.47967326641082764,i will not let america turn into another nation of islam !!!!!!,img/08462.png
+False Positive (Predicted Hateful),31920,0,0.977908194065094,0.477908194065094,"if a rabbi got into a fight, how would he defend himself? he would use jew jitsu!",img/31920.png
+False Positive (Predicted Hateful),93261,0,0.9747934937477112,0.4747934937477112,dont talk about him because hes gay shut up bitch,img/93261.png
+False Positive (Predicted Hateful),41896,0,0.9740509986877441,0.47405099868774414,me convincing homophobes that i'm just like them and not a sexually deviant pervert,img/41896.png
+False Negative (Predicted Non-Hateful),76921,1,0.012704847380518913,0.4872951526194811,she probably asked a wrong question,img/76921.png
+False Negative (Predicted Non-Hateful),95604,1,0.018058018758893013,0.481941981241107,"they want to be accepted for who they are, yet theren't able to accept themselves for who they are",img/95604.png
+False Negative (Predicted Non-Hateful),58412,1,0.018448319286108017,0.481551680713892,praise allah for this glorious moment,img/58412.png
+False Negative (Predicted Non-Hateful),70169,1,0.020373227074742317,0.4796267729252577,diversity is our greatest strength,img/70169.png
+False Negative (Predicted Non-Hateful),87169,1,0.023469360545277596,0.4765306394547224,albanians talking photo with a porn star,img/87169.png

@@ -1,0 +1,11 @@
+category,id,true_label,pred_prob,confidence,text,img
+False Positive (Predicted Hateful),20791,0,0.8998295664787292,0.39982956647872925,"islam ""i will instill terror into the hearts of the un believers: smite ye above their necks and smite all their finger-tips off."" quran 8:12",img/20791.png
+False Positive (Predicted Hateful),82730,0,0.8990983963012695,0.39909839630126953,you rape em we scrape em no fetus can defetus,img/82730.png
+False Positive (Predicted Hateful),76108,0,0.8951625823974609,0.39516258239746094,god : *creates women* humans : *creates dishwashers* god :,img/76108.png
+False Positive (Predicted Hateful),39452,0,0.8930818438529968,0.3930818438529968,then he said i couldn't come to the barbecue because i always burn the franks,img/39452.png
+False Positive (Predicted Hateful),89657,0,0.8930818438529968,0.3930818438529968,then he said i couldn't come to the barbecue because i always burn the franks,img/89657.png
+False Negative (Predicted Non-Hateful),79150,1,0.10095798969268799,0.399042010307312,i wish i could stand by you!,img/79150.png
+False Negative (Predicted Non-Hateful),60175,1,0.10420191287994385,0.39579808712005615,we are never going to have social change until take personal responsibility for our own lives and participate in our communities,img/60175.png
+False Negative (Predicted Non-Hateful),82603,1,0.10566776245832443,0.39433223754167557,"felt cute, might go sit down to pee idk",img/82603.png
+False Negative (Predicted Non-Hateful),58412,1,0.1069253459572792,0.3930746540427208,praise allah for this glorious moment,img/58412.png
+False Negative (Predicted Non-Hateful),69307,1,0.11011148989200592,0.3898885101079941,who needs a human interaction when you've got a loyal animal companion,img/69307.png
